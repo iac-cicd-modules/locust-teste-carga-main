@@ -1,6 +1,6 @@
-# Locust Teste de Carga KXC
+# Locust Teste de Carga 
 
-Modelo inicial para ECS de teste de carga a ser utilizado pela KXC.
+Modelo inicial para ECS de teste de carga a ser utilizado pela .
 
 
 
